@@ -5,3 +5,5 @@ python-dotenv
 openai
 tiktoken
 pydantic
+fastapi
+uvicorn
