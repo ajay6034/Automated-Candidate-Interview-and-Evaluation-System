@@ -4,3 +4,5 @@ The Automated candidate Interview & Evaluation System (ARIES) is an Agentic AI s
 ## Architecture Overview
 
 ![alt text](image.png)
+
+- Here the Interviewer Agent works as Interviewer who can ask the questions to candidate. And In the backend the Evaluation Agent evaluates the answers and performance of the candidate. Here we can see multi agents which are interacting with each other to evaluate the candidate performance.
