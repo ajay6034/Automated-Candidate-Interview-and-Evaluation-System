@@ -30,3 +30,10 @@ The Automated candidate Interview & Evaluation System (ARIES) is an Agentic AI s
 3. Install required packages
 4. Run the application
 
+## AutoGen Framework Agent Parameters
+
+![alt text](image-3.png)
+
+## Overview Of How Agents communicate and Evaluate Between Them
+
+![alt text](image-4.png)
