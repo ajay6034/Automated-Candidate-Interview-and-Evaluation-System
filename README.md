@@ -20,7 +20,7 @@ The Automated candidate Interview & Evaluation System (ARIES) is an Agentic AI s
 
 ## Flow Of Whole Appliaction Building
 
-![alt text](image-2.png)
+<img width="1447" height="647" alt="image" src="https://github.com/user-attachments/assets/2361ee96-96e6-4930-9857-e2d504184c84" />
 
 
 ## Env Creation
