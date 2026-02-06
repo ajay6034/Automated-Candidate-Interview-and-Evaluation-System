@@ -6,3 +6,27 @@ The Automated candidate Interview & Evaluation System (ARIES) is an Agentic AI s
 ![alt text](image.png)
 
 - Here the Interviewer Agent works as Interviewer who can ask questions to candidate. And In the backend the Evaluation Agent evaluates the answers and performance of the candidate. Here we can see multi agents which are interacting with each other to evaluate the candidate performance.
+
+## Frameworks Available In The Market For Building Application
+- LangGraph
+- CrewAI
+- n8n (No Code Platform)
+- AutoGen
+- LangFlow
+
+- Here I'm going with AutoGen Framework because it has Easy and Flexible functionalities compare to other frameworks.
+
+- AutoGen provides two main things like 1. AgentChat, which is a high -level API for building multi-agent applications. It is on top of the autogen-core, 2. Core which is useful for architectural low level programs.  We can do more customized things here.
+
+## Flow Of Whole Appliaction Building
+
+![alt text](image-2.png)
+
+
+## Env Creation
+
+1. Create Virtual environment
+2. Activate the env
+3. Install required packages
+4. Run the application
+
