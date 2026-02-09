@@ -91,7 +91,7 @@ async def read_root(request: Request):
 
 
 @app.websocket("/ws/interview")
-async def websocket_endpoint(websocket: WebSocket, pos: str = Query("AI Engineer")):
+async def websocket_endpoint(websocket: WebSocket, pos: str = Query("Enter the Job Role who are looking")):
     await websocket.accept()
 
     try:

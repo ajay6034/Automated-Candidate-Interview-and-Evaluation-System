@@ -37,3 +37,8 @@ The Automated candidate Interview & Evaluation System (ARIES) is an Agentic AI s
 ## Overview Of How Agents communicate and Evaluate Between Them
 
 ![alt text](image-4.png)
+
+
+## Web Interface For Candidadte Interview And Evaluation System
+
+![alt text](image-5.png)

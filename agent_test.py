@@ -16,7 +16,7 @@ print("Setting up Agents...")
 
 ## Creating Interviewer Agent For Interviewing the Candidate
 
-async def my_agent(job_position= "AI Engineer"):
+async def my_agent(job_position= "Enter the Job Role who are looking"):
     interviewer_agent = AssistantAgent(
         name = "Interviewer",
         model_client = model_client,
@@ -74,7 +74,7 @@ async def run_interview(team):
             yield message
 
 async def main():
-    job_position = "AI Engineer"
+    job_position = "Enter the Job Role who are looking"
     team = await my_agent(job_position)
 
 
